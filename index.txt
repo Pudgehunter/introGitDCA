@@ -1,0 +1,3 @@
+Estuve creando escrito pero ya no.
+Nuevo cambio si se puede.
+Hay que guardarlo de nuevo después de haber conectado git con el git Bash
